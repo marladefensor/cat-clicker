@@ -1,0 +1,23 @@
+body {
+  padding-top: 1em;
+  text-align: center;
+}
+
+.btn-toolbar {
+  justify-content: center;
+  padding: 1em;
+}
+
+.cat-pic {
+  width: 15%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.counters {
+  padding-bottom: 0.5em;
+}
+
+h2 {
+  padding: 0;
+}
